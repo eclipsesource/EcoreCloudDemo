@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ASCII"?>
+<enotation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:enotation="http://www.eclipsesource.com/glsp/ecore/notation">
+  <semanticElement uri="/"/>
+  <elements xsi:type="enotation:Edge">
+    <semanticElement uri="//Task/users"/>
+    <bendPoints x="184.296875" y="179.0"/>
+    <bendPoints x="204.296875" y="179.0"/>
+  </elements>
+  <elements xsi:type="enotation:Shape">
+    <semanticElement uri="//Task"/>
+    <position x="53.0" y="10.0"/>
+    <size width="172.296875" height="98.0"/>
+  </elements>
+  <elements xsi:type="enotation:Shape">
+    <semanticElement uri="//User"/>
+    <position x="651.0" y="181.0"/>
+    <size width="84.578125" height="43.0"/>
+  </elements>
+  <elements xsi:type="enotation:Edge">
+    <semanticElement uri="//Task/users"/>
+    <bendPoints x="308.6484375" y="47.5"/>
+    <bendPoints x="308.6484375" y="288.5"/>
+    <bendPoints x="566.2890625" y="288.5"/>
+    <bendPoints x="566.2890625" y="202.5"/>
+  </elements>
+  <elements xsi:type="enotation:Shape">
+    <semanticElement uri="//State"/>
+    <position x="655.0" y="-22.0"/>
+    <size width="89.578125" height="98.0"/>
+  </elements>
+</enotation:Diagram>
